@@ -2,30 +2,30 @@
     {
         "title": "Dashboard",
         "description": "HubSpot Dashboard, duh.",
-        "path": "/dashboard/305687/"
+        "path": "/dashboard/HUBID/"
     }, {
         "title": "Contacts",
         "description": "Contacts ↣ Contacts Home",
-        "path": "/contacts/305687/"
+        "path": "/contacts/HUBID/"
     }, {
         "title": "Social Publishing",
         "description": "Social ↣ Publishing",
-        "path": "/social/305687/publishing/"
+        "path": "/social/HUBID/publishing/"
     }, {
         "title": "Social Publisher",
         "description": "Social ↣ Publishing ↣ Compose",
-        "path": "/social/305687/publishing/compose2/"
+        "path": "/social/HUBID/publishing/compose2/"
     }, {
         "title": "Social Monitoring",
         "description": "Social ↣ Monitoring",
-        "path": "/social/305687/monitoring/"
+        "path": "/social/HUBID/monitoring/"
     }, {
         "title": "Social Reach",
         "description": "Social ↣ Reach",
-        "path": "/social/305687/reach/"
+        "path": "/social/HUBID/reach/"
     }, {
         "title": "Social Settings",
         "description": "Social ↣ Settings",
-        "path": "/social/305687/settings/"
+        "path": "/social/HUBID/settings/"
     }
 ]

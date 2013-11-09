@@ -16,6 +16,14 @@
 				<key>modifiersubtext</key>
 				<string></string>
 			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>685730A5-380D-4525-A92A-D20A9D265891</string>
+				<key>modifiers</key>
+				<integer>262144</integer>
+				<key>modifiersubtext</key>
+				<string>Almost there! Just hit enter!</string>
+			</dict>
 		</array>
 	</dict>
 	<key>createdby</key>
@@ -74,11 +82,33 @@
 			<key>version</key>
 			<integer>0</integer>
 		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>escaping</key>
+				<integer>127</integer>
+				<key>script</key>
+				<string>python configure.py {query}</string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>685730A5-380D-4525-A92A-D20A9D265891</string>
+			<key>version</key>
+			<integer>0</integer>
+		</dict>
 	</array>
 	<key>readme</key>
 	<string></string>
 	<key>uidata</key>
 	<dict>
+		<key>685730A5-380D-4525-A92A-D20A9D265891</key>
+		<dict>
+			<key>ypos</key>
+			<real>170</real>
+		</dict>
 		<key>88F916AD-5A06-45BB-8C0A-6EF6AA568B33</key>
 		<dict>
 			<key>ypos</key>
